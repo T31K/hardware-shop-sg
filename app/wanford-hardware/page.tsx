@@ -95,7 +95,7 @@ export default function WanfordHardwarePage() {
             </h1>
 
             <p style={{ color: "#a8b8a0", fontSize: "16px", lineHeight: 1.8, margin: "0 0 36px", maxWidth: "440px" }}>
-              Your neighbourhood hardware partner at Chai Chee. From hand tools to key cutting — our knowledgeable boss helps you get the job done right, whether you're a first-time DIYer or a seasoned tradesman.
+              Your neighbourhood hardware partner at Chai Chee. From hand tools to key cutting — our knowledgeable boss helps you get the job done right, whether you&apos;re a first-time DIYer or a seasoned tradesman.
             </p>
 
             <div style={{ display: "flex", gap: "16px", flexWrap: "wrap" }}>
@@ -215,7 +215,7 @@ export default function WanfordHardwarePage() {
               <p style={{ color: "#c9973e", fontSize: "11px", letterSpacing: "4px", textTransform: "uppercase", margin: "0 0 20px", fontFamily: "system-ui, sans-serif" }}>Service 01</p>
               <h3 style={{ color: "#f5ead4", fontSize: "32px", margin: "0 0 20px", fontWeight: "bold" }}>Hardware & DIY</h3>
               <p style={{ color: "#a8b8a0", fontSize: "15px", lineHeight: 1.9, margin: "0 0 32px" }}>
-                Everything for your home improvement project — hand tools, power tools, fasteners, paints, adhesives, electrical supplies and more. A well-stocked neighbourhood store where the boss knows what he's talking about.
+                Everything for your home improvement project — hand tools, power tools, fasteners, paints, adhesives, electrical supplies and more. A well-stocked neighbourhood store where the boss knows what he&apos;s talking about.
               </p>
               <ul style={{ color: "#c9973e", padding: "0 0 0 16px", margin: 0 }}>
                 {["Hand & Power Tools", "Fasteners & Screws", "Paint & Adhesives", "Electrical Supplies", "Household Hardware"].map(item => (
@@ -246,7 +246,7 @@ export default function WanfordHardwarePage() {
         <div style={{ maxWidth: "800px", margin: "0 auto", textAlign: "center" }}>
           <div style={{ color: "#c9973e", fontSize: "40px", marginBottom: "16px", letterSpacing: "4px" }}>❝</div>
           <p style={{ color: "#f5ead4", fontSize: "22px", lineHeight: 1.7, margin: "0 0 24px", fontStyle: "italic" }}>
-            "Boss very helpful and knowledgeable. Came in not knowing what I needed — left with exactly the right parts and some great advice."
+            &ldquo;Boss very helpful and knowledgeable. Came in not knowing what I needed — left with exactly the right parts and some great advice.&rdquo;
           </p>
           <p style={{ color: "#c9973e", fontSize: "12px", letterSpacing: "3px", textTransform: "uppercase", margin: 0, fontFamily: "system-ui, sans-serif" }}>— Google Review · ★★★★★</p>
         </div>
@@ -257,7 +257,7 @@ export default function WanfordHardwarePage() {
 
         <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "20px", marginBottom: "56px", textAlign: "center" }}>
           <div style={{ width: "60px", height: "1px", background: "#c9973e" }} />
-          <span style={{ color: "#c9973e", fontSize: "11px", letterSpacing: "4px", textTransform: "uppercase" }}>When We're Open</span>
+          <span style={{ color: "#c9973e", fontSize: "11px", letterSpacing: "4px", textTransform: "uppercase" }}>When We&apos;re Open</span>
           <div style={{ width: "60px", height: "1px", background: "#c9973e" }} />
         </div>
 
