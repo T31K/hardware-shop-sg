@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Wanford Hardware & Trading DIY",
+    "phone": "+65 9681 0682",
+    "address": "27A Chai Chee Rd, #01-379, Singapore 461027",
+    "slug": "wanford-hardware",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Wanford+Hardware+Trading+DIY+27A+Chai+Chee+Rd+Singapore"
+  },
+  {
+    "id": 2,
+    "name": "RY Hardware",
+    "phone": "+65 8950 4217",
+    "address": "122 Bedok North Street 2, #01-104, Singapore",
+    "slug": "ry-hardware",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=RY+Hardware+122+Bedok+North+Street+2+Singapore"
+  },
+  {
+    "id": 3,
+    "name": "Fix It Right",
+    "phone": null,
+    "address": "Tampines, Singapore",
+    "slug": "fix-it-right",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fix+It+Right+Hardware+Tampines+Singapore"
+  },
+  {
+    "id": 4,
+    "name": "Chin Tat Hardware Pte Ltd",
+    "phone": "+65 6782 7654",
+    "address": "9003 Tampines Street 93, #02-158, Singapore 528837",
+    "slug": "chin-tat-hardware",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chin+Tat+Hardware+9003+Tampines+Street+93+Singapore"
+  },
+  {
+    "id": 5,
+    "name": "HomeHub Store",
+    "phone": "+65 6785 0106",
+    "address": "878C Tampines Ave 8, #01-69, Singapore",
+    "slug": "homehub-tampines",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=HomeHub+Store+878C+Tampines+Ave+8+Singapore"
+  },
+  {
+    "id": 6,
+    "name": "Tampines Hardware",
+    "phone": null,
+    "address": "Tampines, Singapore",
+    "slug": "tampines-hardware",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tampines+Hardware+Singapore"
+  },
+  {
+    "id": 7,
+    "name": "Nam Yong Industrades",
+    "phone": "+65 6382 5465",
+    "address": "10 Kaki Bukit Rd 2, #01-02 First East Centre, Singapore 417868",
+    "slug": "nam-yong-industrades",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nam+Yong+Industrades+10+Kaki+Bukit+Rd+2+Singapore"
+  },
+  {
+    "id": 8,
+    "name": "Teck Seng Hardware Trading",
+    "phone": "+65 6681 6723",
+    "address": "9002 Tampines Street 93, #01-02, Singapore 528836",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Teck+Seng+Hardware+Trading+9002+Tampines+Street+93+Singapore"
+  },
+  {
+    "id": 9,
+    "name": "Hoe Siong Locksmith",
+    "phone": "+65 9624 5318",
+    "address": "Blk 406 #01-13, Tampines Street 41, Singapore 520406",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hoe+Siong+Locksmith+Blk+406+Tampines+Street+41+Singapore"
+  },
+  {
+    "id": 10,
+    "name": "Huay Tong Trading",
+    "phone": "+65 6582 6940",
+    "address": "446 Pasir Ris Drive 6, Singapore 510446",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Huay+Tong+Trading+446+Pasir+Ris+Drive+6+Singapore"
+  },
+  {
+    "id": 11,
+    "name": "Chin Hoe Hup Kee Hardware",
+    "phone": "+65 6785 1910",
+    "address": "139 Tampines St. 11, #01-26, Singapore 521139",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chin+Hoe+Hup+Kee+Hardware+139+Tampines+St+11+Singapore"
+  },
+  {
+    "id": 12,
+    "name": "Y.Y. Household",
+    "phone": "+65 6962 6088",
+    "address": "1 Pasir Ris Central St 3, #03-20B White Sands, Singapore 518457",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=YY+Household+1+Pasir+Ris+Central+St+3+Singapore"
+  },
+  {
+    "id": 13,
+    "name": "Choo Keng Watch & Clock (Hardware)",
+    "phone": "+65 6582 7680",
+    "address": "440 Pasir Ris Drive 4, #01-09, Singapore 510440",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Choo+Keng+Watch+Clock+Hardware+440+Pasir+Ris+Drive+4+Singapore"
+  },
+  {
+    "id": 14,
+    "name": "Guan Chuan Heng Co",
+    "phone": "+65 6444 2771",
+    "address": "412 Bedok North Ave 2, #01-134/136, Singapore 460412",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Guan+Chuan+Heng+Co+412+Bedok+North+Ave+2+Singapore"
+  },
+  {
+    "id": 15,
+    "name": "Seng Aik Trading",
+    "phone": "+65 6584 2712",
+    "address": "259 Pasir Ris Street 21, #02-27 Loyang Point, Singapore 510259",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Seng+Aik+Trading+259+Pasir+Ris+Street+21+Singapore"
+  },
+  {
+    "id": 16,
+    "name": "Tools-Station Diy Enterprise",
+    "phone": "+65 6584 3363",
+    "address": "1 Pasir Ris Central St 3, Singapore 518457",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tools+Station+Diy+Enterprise+1+Pasir+Ris+Central+St+3+Singapore"
+  },
+  {
+    "id": 17,
+    "name": "Electric Trading & Hardware",
+    "phone": "+65 6582 0235",
+    "address": "442 Pasir Ris Drive 6, Singapore 510442",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Electric+Trading+Hardware+442+Pasir+Ris+Drive+6+Singapore"
+  },
+  {
+    "id": 18,
+    "name": "Ah Wong Hardware Trading Pte. Ltd.",
+    "phone": "+65 6560 3380",
+    "address": "492 Jurong West Street 41, #01-38, Singapore 640492",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ah+Wong+Hardware+Trading+492+Jurong+West+Street+41+Singapore"
+  },
+  {
+    "id": 19,
+    "name": "Sin Kang Lian Hardware Co",
+    "phone": "+65 6261 3122",
+    "address": "27A Jurong Port Rd, Singapore 619101",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sin+Kang+Lian+Hardware+Co+27A+Jurong+Port+Rd+Singapore"
+  },
+  {
+    "id": 20,
+    "name": "Pioneer Hardware Industrial Supply Pte Ltd",
+    "phone": "+65 8127 8344",
+    "address": "5 Soon Lee St, #01-11 Pioneer Point, Singapore 627607",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pioneer+Hardware+Industrial+Supply+5+Soon+Lee+St+Singapore"
+  },
+  {
+    "id": 21,
+    "name": "NBS Hardware & Houseware",
+    "phone": "+65 6792 0811",
+    "address": "144 Upper Bukit Timah Rd, #02-28 Beauty World Centre, Singapore 588177",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=NBS+Hardware+Houseware+144+Upper+Bukit+Timah+Rd+Singapore"
+  },
+  {
+    "id": 22,
+    "name": "Kaysav Hardware Pte Ltd",
+    "phone": "+65 8141 8048",
+    "address": "1 Soon Lee St, #01-62 Pioneer Centre, Singapore 627605",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kaysav+Hardware+1+Soon+Lee+St+Pioneer+Centre+Singapore"
+  },
+  {
+    "id": 23,
+    "name": "Feenix Hardware",
+    "phone": "+65 8587 1600",
+    "address": "3 Soon Lee St, #01-30 Pioneer Junction, Singapore 627606",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Feenix+Hardware+3+Soon+Lee+St+Pioneer+Junction+Singapore"
+  },
+  {
+    "id": 24,
+    "name": "David Hardware and Electrical",
+    "phone": "+65 6363 8803",
+    "address": "Blk 18 Marsiling Ln, #01-261, Singapore 730018",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=David+Hardware+Electrical+Blk+18+Marsiling+Ln+Singapore"
+  },
+  {
+    "id": 25,
+    "name": "Kiang Sing Hong Hardware Suppliers",
+    "phone": "+65 6760 0365",
+    "address": "280 Woodlands Industrial Park E5, #01-45/46, Singapore 757322",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kiang+Sing+Hong+Hardware+280+Woodlands+Industrial+Park+E5+Singapore"
+  },
+  {
+    "id": 26,
+    "name": "Sim Kiat Khern Trading",
+    "phone": "+65 6363 2946",
+    "address": "883 Woodlands North Plaza Street 82, #01-478, Singapore 730883",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sim+Kiat+Khern+Trading+883+Woodlands+North+Plaza+Singapore"
+  },
+  {
+    "id": 27,
+    "name": "Yong Heng Hardware",
+    "phone": "+65 6367 5517",
+    "address": "Blk 18 Marsiling Ln, #01-257, Singapore 730018",
+    "slug": null,
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Yong+Heng+Hardware+Blk+18+Marsiling+Ln+Singapore"
+  }
+]
